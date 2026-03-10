@@ -1,3 +1,10 @@
+//
+//  HomeView.swift
+//  Begrarvezar Broxrel
+//
+//  Created by Hughesan Drew on 10.03.2026.
+//
+
 import SwiftUI
 
 struct HomeView: View {

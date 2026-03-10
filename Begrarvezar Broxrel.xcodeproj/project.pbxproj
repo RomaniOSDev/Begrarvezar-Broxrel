@@ -3,61 +3,29 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 60;
+	objectVersion = 70;
 	objects = {
-
-/* Begin PBXBuildFile section */
-		74C4EED32F608D4B00B53EB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74C4EEBE2F608D4B00B53EB5 /* Assets.xcassets */; };
-		74C4EED52F608D4B00B53EB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74C4EEC62F608D4B00B53EB5 /* LaunchScreen.storyboard */; };
-		74C4EED62F608D4B00B53EB5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74C4EEC82F608D4B00B53EB5 /* Main.storyboard */; };
-		74C4EED72F608D4B00B53EB5 /* ActivitiesRootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEBA2F608D4B00B53EB5 /* ActivitiesRootView.swift */; };
-		74C4EED82F608D4B00B53EB5 /* ActivityRouterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEBB2F608D4B00B53EB5 /* ActivityRouterView.swift */; };
-		74C4EED92F608D4B00B53EB5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEBC2F608D4B00B53EB5 /* AppDelegate.swift */; };
-		74C4EEDA2F608D4B00B53EB5 /* AppStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEBD2F608D4B00B53EB5 /* AppStorage.swift */; };
-		74C4EEDB2F608D4B00B53EB5 /* ColorCrazeGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEBF2F608D4B00B53EB5 /* ColorCrazeGame.swift */; };
-		74C4EEDC2F608D4B00B53EB5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEC02F608D4B00B53EB5 /* ContentView.swift */; };
-		74C4EEDD2F608D4B00B53EB5 /* DailyRunView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEC12F608D4B00B53EB5 /* DailyRunView.swift */; };
-		74C4EEDE2F608D4B00B53EB5 /* Haptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEC22F608D4B00B53EB5 /* Haptics.swift */; };
-		74C4EEDF2F608D4B00B53EB5 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEC32F608D4B00B53EB5 /* HomeView.swift */; };
-		74C4EEE02F608D4B00B53EB5 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EEC92F608D4B00B53EB5 /* MainTabView.swift */; };
-		74C4EEE12F608D4B00B53EB5 /* OnboardingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EECA2F608D4B00B53EB5 /* OnboardingViews.swift */; };
-		74C4EEE22F608D4B00B53EB5 /* PatternPairsGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EECB2F608D4B00B53EB5 /* PatternPairsGame.swift */; };
-		74C4EEE32F608D4B00B53EB5 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EECC2F608D4B00B53EB5 /* ProfileView.swift */; };
-		74C4EEE42F608D4B00B53EB5 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EECD2F608D4B00B53EB5 /* ResultView.swift */; };
-		74C4EEE52F608D4B00B53EB5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EECE2F608D4B00B53EB5 /* SceneDelegate.swift */; };
-		74C4EEE62F608D4B00B53EB5 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EECF2F608D4B00B53EB5 /* SettingsView.swift */; };
-		74C4EEE72F608D4B00B53EB5 /* ShapeShifterGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EED02F608D4B00B53EB5 /* ShapeShifterGame.swift */; };
-		74C4EEE82F608D4B00B53EB5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C4EED12F608D4B00B53EB5 /* ViewController.swift */; };
-/* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1920B230DF31584448881A28 /* Pods_Begrarvezar_Broxrel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Begrarvezar_Broxrel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FB052D66FB8FD55A43FAC57 /* Pods-Begrarvezar Broxrel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Begrarvezar Broxrel.debug.xcconfig"; path = "Target Support Files/Pods-Begrarvezar Broxrel/Pods-Begrarvezar Broxrel.debug.xcconfig"; sourceTree = "<group>"; };
 		74C4EE5F2F60621300B53EB5 /* Begrarvezar Broxrel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Begrarvezar Broxrel.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		74C4EEBA2F608D4B00B53EB5 /* ActivitiesRootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivitiesRootView.swift; sourceTree = "<group>"; };
-		74C4EEBB2F608D4B00B53EB5 /* ActivityRouterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityRouterView.swift; sourceTree = "<group>"; };
-		74C4EEBC2F608D4B00B53EB5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		74C4EEBD2F608D4B00B53EB5 /* AppStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorage.swift; sourceTree = "<group>"; };
-		74C4EEBE2F608D4B00B53EB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		74C4EEBF2F608D4B00B53EB5 /* ColorCrazeGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCrazeGame.swift; sourceTree = "<group>"; };
-		74C4EEC02F608D4B00B53EB5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		74C4EEC12F608D4B00B53EB5 /* DailyRunView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyRunView.swift; sourceTree = "<group>"; };
-		74C4EEC22F608D4B00B53EB5 /* Haptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haptics.swift; sourceTree = "<group>"; };
-		74C4EEC32F608D4B00B53EB5 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
-		74C4EEC42F608D4B00B53EB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		74C4EEC52F608D4B00B53EB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		74C4EEC72F608D4B00B53EB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		74C4EEC92F608D4B00B53EB5 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
-		74C4EECA2F608D4B00B53EB5 /* OnboardingViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViews.swift; sourceTree = "<group>"; };
-		74C4EECB2F608D4B00B53EB5 /* PatternPairsGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatternPairsGame.swift; sourceTree = "<group>"; };
-		74C4EECC2F608D4B00B53EB5 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
-		74C4EECD2F608D4B00B53EB5 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
-		74C4EECE2F608D4B00B53EB5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		74C4EECF2F608D4B00B53EB5 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
-		74C4EED02F608D4B00B53EB5 /* ShapeShifterGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeShifterGame.swift; sourceTree = "<group>"; };
-		74C4EED12F608D4B00B53EB5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B5100621F6C219618D46953F /* Pods-Begrarvezar Broxrel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Begrarvezar Broxrel.release.xcconfig"; path = "Target Support Files/Pods-Begrarvezar Broxrel/Pods-Begrarvezar Broxrel.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		74C4EF182F608F6400B53EB5 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 74C4EE5E2F60621300B53EB5 /* Begrarvezar Broxrel */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		74C4EF012F608F6400B53EB5 /* Begrarvezar Broxrel */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (74C4EF182F608F6400B53EB5 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = "Begrarvezar Broxrel"; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		74C4EE5C2F60621300B53EB5 /* Frameworks */ = {
@@ -82,7 +50,7 @@
 		74C4EE562F60621300B53EB5 = {
 			isa = PBXGroup;
 			children = (
-				74C4EED22F608D4B00B53EB5 /* Begrarvezar Broxrel */,
+				74C4EF012F608F6400B53EB5 /* Begrarvezar Broxrel */,
 				74C4EE602F60621300B53EB5 /* Products */,
 				187075B89B6F3D2C510BF181 /* Pods */,
 				C47D7FDEFA277AFFFE48215D /* Frameworks */,
@@ -95,35 +63,6 @@
 				74C4EE5F2F60621300B53EB5 /* Begrarvezar Broxrel.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		74C4EED22F608D4B00B53EB5 /* Begrarvezar Broxrel */ = {
-			isa = PBXGroup;
-			children = (
-				74C4EEBA2F608D4B00B53EB5 /* ActivitiesRootView.swift */,
-				74C4EEBB2F608D4B00B53EB5 /* ActivityRouterView.swift */,
-				74C4EEBC2F608D4B00B53EB5 /* AppDelegate.swift */,
-				74C4EEBD2F608D4B00B53EB5 /* AppStorage.swift */,
-				74C4EEBE2F608D4B00B53EB5 /* Assets.xcassets */,
-				74C4EEBF2F608D4B00B53EB5 /* ColorCrazeGame.swift */,
-				74C4EEC02F608D4B00B53EB5 /* ContentView.swift */,
-				74C4EEC12F608D4B00B53EB5 /* DailyRunView.swift */,
-				74C4EEC22F608D4B00B53EB5 /* Haptics.swift */,
-				74C4EEC32F608D4B00B53EB5 /* HomeView.swift */,
-				74C4EEC42F608D4B00B53EB5 /* Info.plist */,
-				74C4EEC62F608D4B00B53EB5 /* LaunchScreen.storyboard */,
-				74C4EEC82F608D4B00B53EB5 /* Main.storyboard */,
-				74C4EEC92F608D4B00B53EB5 /* MainTabView.swift */,
-				74C4EECA2F608D4B00B53EB5 /* OnboardingViews.swift */,
-				74C4EECB2F608D4B00B53EB5 /* PatternPairsGame.swift */,
-				74C4EECC2F608D4B00B53EB5 /* ProfileView.swift */,
-				74C4EECD2F608D4B00B53EB5 /* ResultView.swift */,
-				74C4EECE2F608D4B00B53EB5 /* SceneDelegate.swift */,
-				74C4EECF2F608D4B00B53EB5 /* SettingsView.swift */,
-				74C4EED02F608D4B00B53EB5 /* ShapeShifterGame.swift */,
-				74C4EED12F608D4B00B53EB5 /* ViewController.swift */,
-			);
-			path = "Begrarvezar Broxrel";
 			sourceTree = "<group>";
 		};
 		C47D7FDEFA277AFFFE48215D /* Frameworks */ = {
@@ -149,6 +88,9 @@
 			buildRules = (
 			);
 			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				74C4EF012F608F6400B53EB5 /* Begrarvezar Broxrel */,
 			);
 			name = "Begrarvezar Broxrel";
 			productName = "Begrarvezar Broxrel";
@@ -193,9 +135,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74C4EED32F608D4B00B53EB5 /* Assets.xcassets in Resources */,
-				74C4EED52F608D4B00B53EB5 /* LaunchScreen.storyboard in Resources */,
-				74C4EED62F608D4B00B53EB5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -231,47 +170,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74C4EED72F608D4B00B53EB5 /* ActivitiesRootView.swift in Sources */,
-				74C4EED82F608D4B00B53EB5 /* ActivityRouterView.swift in Sources */,
-				74C4EED92F608D4B00B53EB5 /* AppDelegate.swift in Sources */,
-				74C4EEDA2F608D4B00B53EB5 /* AppStorage.swift in Sources */,
-				74C4EEDB2F608D4B00B53EB5 /* ColorCrazeGame.swift in Sources */,
-				74C4EEDC2F608D4B00B53EB5 /* ContentView.swift in Sources */,
-				74C4EEDD2F608D4B00B53EB5 /* DailyRunView.swift in Sources */,
-				74C4EEDE2F608D4B00B53EB5 /* Haptics.swift in Sources */,
-				74C4EEDF2F608D4B00B53EB5 /* HomeView.swift in Sources */,
-				74C4EEE02F608D4B00B53EB5 /* MainTabView.swift in Sources */,
-				74C4EEE12F608D4B00B53EB5 /* OnboardingViews.swift in Sources */,
-				74C4EEE22F608D4B00B53EB5 /* PatternPairsGame.swift in Sources */,
-				74C4EEE32F608D4B00B53EB5 /* ProfileView.swift in Sources */,
-				74C4EEE42F608D4B00B53EB5 /* ResultView.swift in Sources */,
-				74C4EEE52F608D4B00B53EB5 /* SceneDelegate.swift in Sources */,
-				74C4EEE62F608D4B00B53EB5 /* SettingsView.swift in Sources */,
-				74C4EEE72F608D4B00B53EB5 /* ShapeShifterGame.swift in Sources */,
-				74C4EEE82F608D4B00B53EB5 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		74C4EEC62F608D4B00B53EB5 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				74C4EEC52F608D4B00B53EB5 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		74C4EEC82F608D4B00B53EB5 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				74C4EEC72F608D4B00B53EB5 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		74C4EE732F60621400B53EB5 /* Debug */ = {

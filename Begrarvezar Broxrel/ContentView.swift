@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Begrarvezar Broxrel
 //
-//  Created by Роман Главацкий on 10.03.2026.
+//  Created by Hughesan Drew on 10.03.2026.
 //
 
 import SwiftUI

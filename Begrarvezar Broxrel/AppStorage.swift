@@ -1,3 +1,10 @@
+//
+//  AppStorage.swift
+//  Begrarvezar Broxrel
+//
+//  Created by Hughesan Drew on 10.03.2026.
+//
+
 import Foundation
 import Combine
 
