@@ -1,0 +1,6 @@
+framework module Pods_Begrarvezar_Broxrel {
+  umbrella header "Pods-Begrarvezar Broxrel-umbrella.h"
+
+  export *
+  module * { export * }
+}
